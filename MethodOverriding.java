@@ -1,7 +1,7 @@
 // method overriding in java - when baseclass and subclass has same method with same signature and parameters
 class A
 {
-    void show()     // same method on base class and child class
+    void show()     //  same method on base class and child class
     {
         System.out.println("Base");
     }
